@@ -36,7 +36,7 @@
 <!-- footer Section Starts Here -->
 <section class="footer">
     <div class="container text-center">
-        <p>All rights reserved. Designed By Pundalik Desai _Sahil Kadam _Mrunali Haldive</a></p>
+        <p>All rights reserved. Designed By Pundalik Desai  & Ayush Amberkar</a></p>
     </div>
 </section>
 <!-- footer Section Ends Here -->

@@ -24,6 +24,9 @@
 
 .clearfix{
     float:none;
+
+
+    
     clear:both;
 }
 
@@ -67,7 +70,7 @@ a:hover{
 
 .col-4{
     width: 18%;
-    background-color: white;
+    background-color: rgb(160, 41, 240);
     margin:1%;
     padding:2%;
     float:left;

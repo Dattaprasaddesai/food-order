@@ -5,11 +5,6 @@ include('partials/menu.php');
 
 
 
-
-
-
-
-
 <!--Main Content section Starts--->
 <div class="main-content">
     <div class="wrapper">

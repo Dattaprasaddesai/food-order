@@ -43,6 +43,9 @@ include('config/constants.php');
                         <a href="<?php echo SITEURL; ?>foods.php">Foods</a>
                     </li>
                     <li>
+                        <a href="todays-order.php">My Orders</a>
+                    </li>
+                    <li>
                         <a href="#">Contact</a>
                     </li>
                 </ul>
